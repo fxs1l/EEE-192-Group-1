@@ -1,0 +1,2 @@
+../Core/Src/Connections/ADC/adc.c:14:6:ADC_Init	1
+../Core/Src/Connections/ADC/adc.c:56:6:GPIOA_PA1_Init	1

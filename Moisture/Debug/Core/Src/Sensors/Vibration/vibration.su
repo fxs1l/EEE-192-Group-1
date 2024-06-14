@@ -1,0 +1,2 @@
+../Core/Src/Sensors/Vibration/vibration.c:5:6:Vibration_Init	8	static
+../Core/Src/Sensors/Vibration/vibration.c:9:10:getVibrationValue	16	static

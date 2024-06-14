@@ -1,0 +1,2 @@
+../Core/Src/Sensors/Moisture/moisture.c:5:6:Moisture_Init	8	static
+../Core/Src/Sensors/Moisture/moisture.c:9:5:getMoistureValue	16	static

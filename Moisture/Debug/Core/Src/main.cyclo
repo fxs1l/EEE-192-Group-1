@@ -1,0 +1,9 @@
+../Core/Src/main.c:64:5:main	2
+../Core/Src/main.c:72:6:doMasterNode	15
+../Core/Src/main.c:170:6:doSensorNode	5
+../Core/Src/main.c:242:6:initializeSystem	7
+../Core/Src/main.c:287:6:IWDG_Init	1
+../Core/Src/main.c:295:6:IWDG_Refresh	1
+../Core/Src/main.c:299:6:floatToString	2
+../Core/Src/main.c:313:5:compareString	2
+../Core/Src/main.c:320:6:removeFirstChar	2

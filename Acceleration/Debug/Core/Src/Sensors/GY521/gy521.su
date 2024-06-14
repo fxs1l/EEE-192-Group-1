@@ -1,0 +1,5 @@
+../Core/Src/Sensors/GY521/gy521.c:24:6:GY521_Write	16	static
+../Core/Src/Sensors/GY521/gy521.c:33:6:GY521_Read	16	static
+../Core/Src/Sensors/GY521/gy521.c:52:6:GY521_Read_Accel	24	static
+../Core/Src/Sensors/GY521/gy521.c:78:6:GY521_Read_Gyro	16	static
+../Core/Src/Sensors/GY521/gy521.c:102:6:GY521_Init	16	static

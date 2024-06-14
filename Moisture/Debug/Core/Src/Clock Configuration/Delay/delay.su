@@ -1,0 +1,4 @@
+../Core/Src/Clock Configuration/Delay/delay.c:5:6:TIM2_Init	4	static
+../Core/Src/Clock Configuration/Delay/delay.c:35:6:TIM2_IRQHandler	4	static
+../Core/Src/Clock Configuration/Delay/delay.c:45:6:startTimer	4	static
+../Core/Src/Clock Configuration/Delay/delay.c:53:6:Delay	16	static

@@ -1,0 +1,3 @@
+../Core/Src/Connections/Spi/spi.c:14:6:SPI_Init	8	static
+../Core/Src/Connections/Spi/spi.c:62:6:SPI1_GPIOA_Init	48	static
+../Core/Src/Connections/Spi/spi.c:111:6:SPI1_GPIOB_Init	48	static
